@@ -1,0 +1,9 @@
+*.log
+*.txt
+*.json
+.DS_Store
+output/
+*/resolved.txt
+*/final.txt
+*/status-codes/
+*/urls/
