@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - Subdomain enumeration from multiple sources
 - DNS resolution using `dnsx`
@@ -15,9 +15,10 @@
 - JS file and parameter discovery
 - Neatly organized output per domain
 
----
 
-## 📦 Dependencies
+## Usage
 
-Make sure the following tools are installed and in your `$PATH`:
+```bash
+chmod +x novsec-recon.sh
+./novsec-recon.sh
 
